@@ -1,4 +1,4 @@
-PG6301 Re-exam - Full Stack Web Application
+Full Stack Web Application
 
 This is a full-stack web application built with React (frontend) and Spring Boot (backend).
 
